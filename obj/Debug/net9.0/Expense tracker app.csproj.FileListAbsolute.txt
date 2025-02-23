@@ -1,0 +1,14 @@
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\bin\Debug\net9.0\Expense tracker app.exe
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\bin\Debug\net9.0\Expense tracker app.deps.json
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\bin\Debug\net9.0\Expense tracker app.runtimeconfig.json
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\bin\Debug\net9.0\Expense tracker app.dll
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\bin\Debug\net9.0\Expense tracker app.pdb
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.AssemblyInfoInputs.cache
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.AssemblyInfo.cs
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.csproj.CoreCompileInputs.cache
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.dll
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\refint\Expense tracker app.dll
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.pdb
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\Expense tracker app.genruntimeconfig.cache
+C:\Users\darl5\OneDrive\Desktop\ExpenseTracker\Expense tracker app\obj\Debug\net9.0\ref\Expense tracker app.dll
